@@ -1,0 +1,112 @@
+/*box shadow start*/
+.a{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: 10px 0px;
+}
+.b{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: 10px 0px black;
+}
+.c{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: 0px 10px black;
+}
+.d{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: 10px 10px 5px black;
+}
+.e{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: 0px 0px 5px 10px black;
+}
+.f{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: 0px 0px 5px 10px black, 0px 0px 5px 10px black;
+}
+.g{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: 0px 0px 5px 10px black, 0px 0px 5px 10px black, 0px 0px 5px 10px black;
+}
+.h{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: inset 10px 0px;
+}
+.i{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: inset 10px 0px black;
+}
+.j{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: inset 0px 10px black;
+}
+.k{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: inset 10px 10px 5px black;
+}
+.l{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: inset 0px 0px 5px 10px black;
+}
+.m{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: inset 0px 0px 5px 10px black, 0px 0px 5px 10px black;
+}
+.n{
+	background-color: red;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: inset 0px 0px 5px 10px black, 0px 0px 5px 10px black, 0px 0px 5px 10px black;
+}
+/*box shadow end*/
+/*text shadow start*/
+.ii{
+	color: purple;
+	text-shadow: 5px 0px;
+}
+.iii{
+	color: purple;
+	text-shadow: 5px 5px;
+}
+.iv{
+	color: purple;
+	text-shadow: 5px 5px 10px;
+}
+.v{
+	color: purple;
+	text-shadow: 5px 5px 10px pink;
+}
+.vi{
+	color: purple;
+	text-shadow: 5px 5px 10px pink,  5px 5px 10px pink;
+}
+.vii{
+	color: purple;
+	text-shadow: 5px 5px 10px pink,  5px 5px 10px pink, 5px 5px 10px pink;
+}
+/*text shadow end*/
