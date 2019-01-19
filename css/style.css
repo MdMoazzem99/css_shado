@@ -99,14 +99,14 @@
 }
 .v{
 	color: purple;
-	text-shadow: 5px 5px 10px pink;
+	text-shadow: 5px 5px 10px red;
 }
 .vi{
 	color: purple;
-	text-shadow: 5px 5px 10px pink,  5px 5px 10px pink;
+	text-shadow: 5px 5px 10px red,  5px 5px 10px red;
 }
 .vii{
 	color: purple;
-	text-shadow: 5px 5px 10px pink,  5px 5px 10px pink, 5px 5px 10px pink;
+	text-shadow: 5px 5px 10px red,  5px 5px 10px red, 5px 5px 10px red;
 }
 /*text shadow end*/
